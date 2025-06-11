@@ -1,0 +1,61 @@
+<!DOCTYPE  html>
+<html>
+ <head>
+   <title></title>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" href="EstiloGaleria.css"
+ </head>
+ <body>
+  <div>
+   <h1>Autos chavez</h1>
+   <ul id="menu">
+    <li><a href="index.html">Inicio</a></li>
+    <li><a href="galeria.html">Galería</a></li>
+    <li><a href="nosotros.html">Nosotros</a></li>
+    <li><a href="contacto.html">Contacto</a></li>
+    <li><a href="novedades.html">Novedades</a></li>
+   </ul>
+  </div>
+  <div>
+   <p style="clear:both;"></p> 
+   <h2>Galería</h2>
+      <h3>Electricos</h3>
+           <div id="1" class="ficha"><a href="Gale1.jpg"><img src="Gale/Carros_mini1.png" alt="Camaro" /></a> 
+                      <p>Camaro</p> </div>
+           <div id="2" class="ficha"><a href="Gale2.jpg"><img src="Gale/Carros_mini2.png" alt="Vento" /></a>
+                      <p>Vento</p> </div>
+           <div id="3" class="ficha"><a href="Gale3.jpg"><img src="Gale/Carros_mini3.png" alt="Tesla" /></a>
+                      <p>Tesla</p> </div>
+           <div id="4" class="ficha"><a href="Gale4.jpg"><img src="Gale/Carros_mini4.png" alt="Chalenguer" /></a> 
+                      <p>Chalenguer</p> </div>
+           <div id="5" class="ficha"><a href="Gale5"><img src="Gale/Carros_mini5.png" alt="Corvet" /></a>
+                      <p>Corvet</p> </div>
+      <p style="clear:both;"></p> 
+      <h3>Gasolina</h3>
+           <div id="6" class="ficha"><a href="Gale6.jpg"><img src="Gale/Carros_mini6.png" alt="Versa" /></a>
+                      <p>Versa</p> </div>
+           <div id="7" class="ficha"><a href="Gale7.jpg"><img src="Gale/Carros_mini7.png" alt="Lamborguini" /></a> 
+                      <p>Lamborguini</p> </div>
+           <div id="8" class="ficha"><a href="Gale8.jpg"><img src="Gale/Carros_mini8.png" alt="Ferrari" /></a>
+                      <p>Ferrari</p> </div>
+           <div id="9" class="ficha"><a href="Gale9.jpg"><img src="Gale/Carros_mini9.png" alt="Fornite" /></a> 
+                      <p>Fornite</p> </div>
+	   <div id="10" class="ficha"><a href="Gale10.jpg"><img src="Gale/Carros_mini10.png" alt="Peugeot" /></a> 
+                      <p>Peugeot</p> </div>
+       <p style="clear:both;"></p> 
+      <h3>Hibridos</h3>
+           <div id="11" class="ficha"><a href="Gale11.jpg"><img src="Gale/Carros_mini11.png" alt="Maricon" /></a>
+                      <p>Maricon</p> </div>
+           <div id="12" class="ficha"><a href="Gale12.jpg"><img src="Gale/Carros_mini12.png" alt="BMW" /></a> 
+                      <p>BMW</p> </div>
+           <div id="13" class="ficha"><a href="Gale13.jpg"><img src="Gale/Carros_mini13.png" alt="Cholo" /></a>
+                      <p>Cholo</p> </div>
+           <div id="14" class="ficha"><a href="Gale14.jpg"><img src="Gale/Carros_mini14.png" alt="macetas" /></a> 
+                      <p>Macetas</p> </div>
+	   <div id="15" class="ficha"><a href="Gale15.jpg"><img src="Gale/Carros_mini15.png" alt="Chevy" /></a> 
+                      <p>Chevy</p> </div>
+       <p style="clear:both;"></p>
+</div>
+  <div>&copy; Todos los derechos reservados</div>
+ </body>
+ </html>
